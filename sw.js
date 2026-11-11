@@ -3,7 +3,7 @@
 // installs the new worker (it fetches this file bypassing the HTTP cache), which downloads the new release.
 "use strict";
 
-const VERSION = "v0.9.14";
+const VERSION = "v0.9.15";
 const FILES = ["./", "apple-touch-icon.png", "icon-192.png", "icon-512.png", "manifest.webmanifest"];
 const CACHE = `scallenger-${VERSION}`;
 
